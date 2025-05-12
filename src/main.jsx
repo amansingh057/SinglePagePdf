@@ -16,7 +16,7 @@ createRoot(document.getElementById('root')).render(
       </nav>
       
       <Routes>
-      <Route path="/" element={<App />} />
+        <Route path="/" element={<App />} />
         <Route path="/trips" element={<Trips />} />
       </Routes>
     </Router>
