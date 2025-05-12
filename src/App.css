@@ -1,0 +1,36 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.custom-button {
+  background-color: #2196F3 !important;
+}
+
+.custom-button:hover {
+  background-color: #0b7dda !important;
+}
+
+.document-content {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.document-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.document-content th, 
+.document-content td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.document-content th {
+  background-color: #f2f2f2;
+}
+
